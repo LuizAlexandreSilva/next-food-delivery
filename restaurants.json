@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Outback Steakhouse",
+    "rating": 4.2,
+    "category": "Australiana",
+    "distance": "2,6 km",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 7.9,
+    "favorite": true,
+    "available": true,
+    "type": "restaurant",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOtqJHMLFZo99TWVP1Ub1FtDgwtGRpj27ZrkuL-=w203-h152-k-no"
+  },
+  {
+    "name": "McDonald's",
+    "rating": 3.9,
+    "category": "Lanches",
+    "distance": "6,4 km",
+    "deliveryTime": "70-110min",
+    "deliveryPrice": 5.9,
+    "favorite": false,
+    "available": false,
+    "type": "restaurant",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/220px-McDonald%27s_logo.svg.png"
+  }
+]

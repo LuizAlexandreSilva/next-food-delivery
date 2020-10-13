@@ -1,0 +1,80 @@
+[
+  {
+    "name": "The Outback Special",
+    "price": 69.9,
+    "weight": "325g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": true,
+    "available": true,
+    "type": "dish",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/25_The-Outback-Special-225x255.jpg",
+    "restaurantName": "Outback Steakhouse",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  },
+  {
+    "name": "Herb Crusted Filet",
+    "price": 66.9,
+    "weight": "250g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": true,
+    "available": true,
+    "type": "dish",
+    "restaurantName": "Outback Steakhouse",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Outback-Herbs-menuprincipal_0-225x255.jpg",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  },
+  {
+    "name": "The Poterhouse",
+    "price": 89.9,
+    "weight": "500g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": true,
+    "available": true,
+    "type": "dish",
+    "restaurantName": "Outback Steakhouse",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/28_The-Porterhouse-225x255.jpg",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  },
+  {
+    "name": "New York Strip Steak",
+    "price": 79.9,
+    "weight": "375g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": false,
+    "available": false,
+    "type": "dish",
+    "restaurantName": "Outback Steakhouse",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/new_york_strip_steak--225x255.jpg",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  },
+  {
+    "name": "Rockhampton Ribeye",
+    "price": 79.9,
+    "weight": "325g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": false,
+    "available": true,
+    "type": "dish",
+    "restaurantName": "Outback Steakhouse",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/new_york_strip_steak--225x255.jpg",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  },
+  {
+    "name": "Grilled Peppered Strip",
+    "price": 74.9,
+    "weight": "240g",
+    "deliveryTime": "55-90min",
+    "deliveryPrice": 5.9,
+    "favorite": true,
+    "available": false,
+    "type": "dish",
+    "restaurantName": "Outback Steakhouse",
+    "imageUrl": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Grilled-Peppercorn-Strip-cmyk_0-225x255.jpg",
+    "restaurantLogoUrl": "https://1.bp.blogspot.com/-CVnkIRDUo70/Ws1SlqjX4qI/AAAAAAABqBQ/oBg2BaIfs98YSDVCdrawr_OvD7GU4E2IwCLcBGAs/s1600/out%2Blogo.jpg"
+  }
+]
